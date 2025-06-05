@@ -27,17 +27,17 @@ h2{
     text-align: center;
 }
 
+#products {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    max-width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
 
 /*
-4. Heading Styles:
-• Set the color of h2 headings to  (Green).
-• Center align the text.
-5. Product Styles:
-• Center each product by adding margin to the left and right.
-• Apply padding of 10px.
-• Set a maximum width of 600px.
-• Add a border of 1px solid #ddd.
-• Apply a border-radius of 5px.
+
 6. Product Image Styles:
 • Ensure product images are with max-width: 100% and height: auto.
 • Add a border-radius of 5px.
