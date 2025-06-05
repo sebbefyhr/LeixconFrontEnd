@@ -58,11 +58,16 @@ button {
 
 }
 
+footer {
+    margin-top: 15px;
+    background-color: #000000;
+    padding: 32px 32px;
+    border-radius: 5px;
+    box-shadow: rebeccapurple;
+    text-align: center;
+    text-decoration-color: #fff;
+}
 /*
-8. Button Styles:
-• Style buttons with a background color of #4CAF50 (Green).
-• Set text color to #fff (White).
-• Add padding, remove border, and set border-radius for a clean look.
 9. Footer Styles:
 • Add margin at the top for spacing.
 • Apply padding and background color of #000000 (Black).
