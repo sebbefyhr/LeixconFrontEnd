@@ -13,12 +13,49 @@ header {
     padding: 20px;
 }
 
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-content: center;
+    padding: 20px;
+    border-radius: 5px;
+}
 
 
 
 /*
-• Set the header background color to  (Red).
-• Change the text color to  (White).
+3. Section Styles:
+• Add margin of 20px on top and bottom and center the section horizontally.
+• Apply padding of 20px.
+• Set the background color to #fff.
+• Add a border radius of 5px.
+4. Heading Styles:
+• Set the color of h2 headings to #4CAF50 (Green).
 • Center align the text.
-• Add padding of 20px.
+5. Product Styles:
+• Center each product by adding margin to the left and right.
+• Apply padding of 10px.
+• Set a maximum width of 600px.
+• Add a border of 1px solid #ddd.
+• Apply a border-radius of 5px.
+6. Product Image Styles:
+• Ensure product images are with max-width: 100% and height: auto.
+• Add a border-radius of 5px.
+• Add margin on top for spacing.
+7. Email Field Styles:
+• Add margin at the bottom for spacing.
+8. Button Styles:
+• Style buttons with a background color of #4CAF50 (Green).
+• Set text color to #fff (White).
+• Add padding, remove border, and set border-radius for a clean look.
+9. Footer Styles:
+• Add margin at the top for spacing.
+• Apply padding and background color of #000000 (Black).
+• Add a border radius for a rounded appearance.
+• Apply a box shadow for a subtle effect.
+• Center align text and set color to #fff (White).
+10. Additional Enhancements (Optional):
+• Feel free to add your own styles, use flexbox or grid layout, use more HTML
+elements, and experiment with different CSS properties to enhance the page's
+appearance
 */
