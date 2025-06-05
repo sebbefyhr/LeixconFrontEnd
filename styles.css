@@ -5,3 +5,20 @@ body {
     margin: 0;
     padding: 0;
 }
+
+header {
+    background-color: #d10000;
+    text-decoration-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+/*
+• Set the header background color to  (Red).
+• Change the text color to  (White).
+• Center align the text.
+• Add padding of 20px.
+*/
