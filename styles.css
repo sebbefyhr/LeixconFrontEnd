@@ -18,19 +18,19 @@ section {
     margin-bottom: 20px;
     align-content: center;
     padding: 20px;
+    background-color: #fff;
     border-radius: 5px;
 }
 
+h2{
+    text-decoration-color: #4CAF50;
+    text-align: center;
+}
 
 
 /*
-3. Section Styles:
-• Add margin of 20px on top and bottom and center the section horizontally.
-• Apply padding of 20px.
-• Set the background color to #fff.
-• Add a border radius of 5px.
 4. Heading Styles:
-• Set the color of h2 headings to #4CAF50 (Green).
+• Set the color of h2 headings to  (Green).
 • Center align the text.
 5. Product Styles:
 • Center each product by adding margin to the left and right.
