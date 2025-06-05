@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sant-serif;
     background-color: #d4d0d0;
-    text-decoration-color: #333;
+    color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
     background-color: #d10000;
-    text-decoration-color: #ffffff;
+    color: #ffffff;
     text-align: center;
     padding: 20px;
 }
@@ -16,42 +16,46 @@ header {
 section {
     margin-top: 20px;
     margin-bottom: 20px;
-    align-content: center;
     padding: 20px;
     background-color: #fff;
     border-radius: 5px;
+    align-items: center;
 }
 
+
+.product{
+    padding: 10px;
+    max-width: 600px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    margin-bottom: 6px;
+    border: 1px solid #ddd;
+}
+
+/*
+*/
+
 h2{
-    text-decoration-color: #4CAF50;
+    color: #4CAF50;
     text-align: center;
 }
 
-#products {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding: 10px;
-    max-width: 600px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
 
 #products img {
     max-width: 100%;
     height: auto;
     border-radius: 5px;
-    margin-top: 5px;
-    /* change margin??*/
+    margin-top: 10px;
 }
 
 .email-field{
-    margin-bottom: 5px;
-    /* change margin??*/
+    margin-bottom: 10px;
 }
 
 button {
     background-color: #4CAF50;
-    text-decoration-color: #fff;
+    color: #fff;
     border: 0;
     padding: 10px 10px;
     border-radius: 5px;
@@ -59,11 +63,11 @@ button {
 }
 
 footer {
-    margin-top: 15px;
+    margin-top: 5px;
     background-color: #000000;
     padding: 32px 32px;
     border-radius: 5px;
     box-shadow: rebeccapurple;
     text-align: center;
-    text-decoration-color: #fff;
+    color: #fff;
 }
