@@ -41,16 +41,24 @@ h2{
     height: auto;
     border-radius: 5px;
     margin-top: 5px;
+    /* change margin??*/
 }
 
+.email-field{
+    margin-bottom: 5px;
+    /* change margin??*/
+}
+
+button {
+    background-color: #4CAF50;
+    text-decoration-color: #fff;
+    border: 0;
+    padding: 10px 10px;
+    border-radius: 5px;
+
+}
 
 /*
-6. Product Image Styles:
-• Ensure product images are with max-width: 100% and height: auto.
-• Add a border-radius of 5px.
-• Add margin on top for spacing.
-7. Email Field Styles:
-• Add margin at the bottom for spacing.
 8. Button Styles:
 • Style buttons with a background color of #4CAF50 (Green).
 • Set text color to #fff (White).
